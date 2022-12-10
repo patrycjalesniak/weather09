@@ -6,3 +6,6 @@ Technology stack.
 * Sass
 * JS
 * CSS
+
+
+Project live: [click here](https://patrycjalesniak.github.io/weather09/)
