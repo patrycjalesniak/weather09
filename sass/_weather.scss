@@ -18,6 +18,7 @@
     }
     &__title {
         color: $titleColor;
+        // fluid type skaluje czcionkę
         @include fluid-type(320px, 1920px, 36px, 60px);
         letter-spacing: 2px;
         text-shadow: 1px 1px 1px #000;
